@@ -1,1 +1,1 @@
-My first readme
+YOU ARE IN alx-pre_course
